@@ -1,3 +1,3 @@
 # test repository
 
-for review purposes
+for review purposes, with Gerrit
